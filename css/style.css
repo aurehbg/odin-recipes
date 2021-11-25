@@ -1,0 +1,12 @@
+
+h1 {
+    font-family: "Open Sans","Arial",sans-serif;
+    font-size: 38px;
+    background-color: aqua;
+    text-align: center;
+}
+
+li {
+    line-height: normal;
+    font-size: 28px;
+}
